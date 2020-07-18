@@ -1,1 +1,45 @@
+.header {
+    background-image: url('nature.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 250px;
+    padding-top: 100px;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    text-align: center;
+}
+
+.header {
+    color:white;
+    opacity: 1.0;
+  
+}
+
+.text {
+    text-align: left;
+    font-family: "Lucida Console", Courier, monospace;
+    letter-spacing: -2px;
+    font-size: 150%;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.text h1 {
+    font-size: 285%;
+}
+
+.header button {
+    margin-top: 75px;
+    padding: 20px;
+    background-color: #ffcc00;
+    color: black;
+    border: none;
+    border-radius: 25px;
+    opacity: 1.0;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
 
